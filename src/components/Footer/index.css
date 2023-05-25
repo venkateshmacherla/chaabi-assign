@@ -1,0 +1,14 @@
+.head-con{
+    font-size: 15px;
+    color: violet;
+   
+
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: end;
+   background-color: cornsilk;
+   width: 600px;
+}

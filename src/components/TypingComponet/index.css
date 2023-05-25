@@ -1,0 +1,7 @@
+.type-con{
+    background-color: white;
+    border-color: aliceblue;
+    height: 30px;
+    width: 300px;
+    border-radius: 10px 10px 10px 10px;
+}

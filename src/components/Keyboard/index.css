@@ -1,0 +1,15 @@
+.keyboard-container{
+    background-color: beige;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+.inner-keyboard-container{
+    background-color: bisque;
+    margin: 10px;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 19px;
+    font-family: "Roboto";
+    border-color: bisque;
+    font-style: bold;
+}
