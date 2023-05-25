@@ -4,7 +4,7 @@ const Footer =()=>(
     <div className="footer">
 
         <h1 className = "head-con">
-            Design by Sri Hari
+            Venkatesh Macharla 
         </h1>
         </div>
 
